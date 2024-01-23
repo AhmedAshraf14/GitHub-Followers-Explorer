@@ -92,14 +92,14 @@
 		E2B0EDE62B60442800A8FA75 /* GitHubFollowers */ = {
 			isa = PBXGroup;
 			children = (
-				E2B0EDE72B60442800A8FA75 /* Managers */,
-				E2B0EDEF2B60442800A8FA75 /* Extensions */,
-				E2B0EDF32B60442800A8FA75 /* Screens */,
 				E2B0EDF82B60442800A8FA75 /* Utilities */,
+				E2B0EDE72B60442800A8FA75 /* Managers */,
 				E2B0EDFC2B60442800A8FA75 /* Model */,
-				E2B0EDFF2B60442800A8FA75 /* Info.plist */,
+				E2B0EDEF2B60442800A8FA75 /* Extensions */,
 				E2B0EE002B60442800A8FA75 /* Custom Views */,
+				E2B0EDF32B60442800A8FA75 /* Screens */,
 				E2B0EDE92B60442800A8FA75 /* Support Files */,
+				E2B0EDFF2B60442800A8FA75 /* Info.plist */,
 			);
 			path = GitHubFollowers;
 			sourceTree = "<group>";
