@@ -10,6 +10,18 @@ GitHub Followers Explorer is an iOS app that empowers you to explore GitHub user
 
 - **Favorites:** Save your favorite GitHub users for quick access. Never lose track of interesting profiles.
 
+## Screenshots
+
+![Screenshot 1](/Users/ahmed/Desktop/app screenshots/screen1.png)
+
+![Screenshot 2](/Users/ahmed/Desktop/app screenshots/screen2.png)
+
+![Screenshot 3](/Users/ahmed/Desktop/app screenshots/screen3.png)
+
+![Screenshot 4](/Users/ahmed/Desktop/app screenshots/screen4.png)
+
+![Screenshot 4](/Users/ahmed/Desktop/app screenshots/screen5.png)
+
 ## Getting Started
 
 To run this project locally, follow these steps:
