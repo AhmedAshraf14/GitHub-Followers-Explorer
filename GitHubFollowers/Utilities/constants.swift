@@ -1,9 +1,3 @@
-//
-//  constants.swift
-//  GitHubFollowers
-//
-//  Created by Ahmed Ashraf on 20/01/2024.
-//
 
 import Foundation
 

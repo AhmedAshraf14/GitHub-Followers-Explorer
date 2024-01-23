@@ -1,9 +1,3 @@
-//
-//  GHFBodyLabel.swift
-//  GitHubFollowers
-//
-//  Created by Ahmed Ashraf on 11/01/2024.
-//
 
 import UIKit
 

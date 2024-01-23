@@ -1,9 +1,3 @@
-//
-//  SearchViewController.swift
-//  GitHubFollowers
-//
-//  Created by Ahmed Ashraf on 10/01/2024.
-//
 
 import UIKit
 
